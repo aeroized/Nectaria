@@ -3,4 +3,4 @@ An operating system, still operates itself. We are trying to make the operating 
 
 # What's new? (Patch 19042025)
 - There is just designs ready.
-- And some bootloader files, bootloader itself too.
+- And some bootloader files, bootloader itself too. (Yes, it is GRUB)
