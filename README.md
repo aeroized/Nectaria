@@ -5,4 +5,4 @@ An operating system, still operates itself. We are trying to make the operating 
 - There is just designs ready.
 - And some bootloader files, bootloader itself too. (Yes, it is GRUB)
 
-by Aeroized & shrekinessegi 
+special thanks for Aeroized, shrekinessegi and Kroxic
