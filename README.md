@@ -1,4 +1,4 @@
-# Nectaria .
+# Nectaria
 An operating system, still operates itself. We are trying to make the operating system via _Linux_.
 
 # I (Aeroized) have an idea
